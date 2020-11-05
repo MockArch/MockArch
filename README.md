@@ -9,15 +9,6 @@
 - 💬 Ask me about anything, would rather Security related :computer:
 - ⚡ Fun fact: I love :dog: alot, aloooot and I enjoy listening to violin :violin:
 
-## Connect with me:
-
-[<img align="left" alt="oussamamater.github.io" src="https://img.icons8.com/color/48/000000/geography.png" />][website]
-[<img align="left" alt="OussamaMater | Twitter" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="OussamaMater | LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="OussamaMater | Instagram" src="https://img.icons8.com/color/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="OussamaMater | Facebook" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
-
-<br />
 <br />
 
 ## What I use the most:
@@ -45,4 +36,3 @@
 [website]: https://mockarch.github.io
 [twitter]: https://twitter.com/snippets_golang
 [linkedin]: https://www.linkedin.com/in/ganesh-pawar-31262252/
-[discord] :

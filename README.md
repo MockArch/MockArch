@@ -60,8 +60,7 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/calvinchankf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="calvinchankf" height="30" width="30" /></a>
-<a href="https://medium.com/@calvinchankf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@calvinchankf" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ganesh-pawar-31262252" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="calvinchankf" height="30" width="30" /></a>
 
 [website]: https://mockarch.github.io
 [twitter]: https://twitter.com/snippets_golang

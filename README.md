@@ -1,6 +1,6 @@
 ## Hi there, I'm Oussama Mater 👋
 
-## I'm an IT Student, Blogger and CTF player!!
+## I Just Love coding !!
 
 - 🔭 I’m currently working on a Python based Projects
 - 🌱 I’m currently learning everything, literally everything 🤣

@@ -1,4 +1,4 @@
-## Hi there, I'm Oussama Mater 👋
+## Hi there, I'm Ganesh Pawar (Mock) 👋
 
 ## I Just Love coding !!
 
